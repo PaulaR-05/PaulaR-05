@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paular-05&label=Profile%20views&color=0e75b6&style=flat" alt="paular-05" /> </p>
 
-- 🔭 I’m currently working on [v44-tier1-team-05](https://github.com/chingu-voyages/v44-tier1-team-05)
-
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PaulaR-05](https://github.com/PaulaR-05)
